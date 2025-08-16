@@ -13,7 +13,7 @@ export default new Router({
       component: HelloWorld
     },
     {
-      path: '/ManColor',
+      path: '/',
       name: 'ManColor',
       component: ManColor
     }
